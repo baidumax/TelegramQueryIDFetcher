@@ -30,7 +30,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YourUsername/TelegramQueryIDFetcher.git
+    git clone https://github.com/baidumax/TelegramQueryIDFetcher.git
     cd TelegramQueryIDFetcher
     ```
 
